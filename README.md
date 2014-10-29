@@ -1,4 +1,0 @@
-polorgame
-=========
-
-Polor Game

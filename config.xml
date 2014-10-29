@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="br.com.bearbone" version="1.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="br.com.bearbone" version="2.0.0.0">
 
-	<name>PolorGame</name>
-	<description>Polor Games</description>
-	<author>Tiago</author>
+	<name>Polor</name>
+	<description>Polor Game</description>
+	<author href="bearbone.com.br" email="tiago@bearbone.com.br">Tiago</author>
 
 	<icon src="icon-128.png" width="128" height="128" />
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
@@ -16,7 +16,7 @@
 	<feature name="http://api.phonegap.com/1.0/camera"/>
 	<feature name="http://api.phonegap.com/1.0/notification"/>
 	<gap:plugin name="org.apache.cordova.media" />
-	<preference name="orientation" value="default" />
+	<preference name="orientation" value="landscape" />
 	<preference name="fullscreen" value="true" />
 	<preference name="target-device" value="universal" />
 
